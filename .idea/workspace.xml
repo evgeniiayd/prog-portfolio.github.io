@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d1d6cc9-e8c5-482a-b310-f646fa556f21" name="Changes" comment="commit all">
-      <change afterPath="$PROJECT_DIR$/prog-portfolio/prog-portfolio/.lektor/buildstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog-portfolio/prog-portfolio/about/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog-portfolio/prog-portfolio/blog/first-post/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog-portfolio/prog-portfolio/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog-portfolio/prog-portfolio/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog-portfolio/prog-portfolio/projects/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog-portfolio/prog-portfolio/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/first-post/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/contents.lr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/contents.lr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/first-post/contents.lr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/contents.lr" beforeDir="false" afterPath="$PROJECT_DIR$/content/contents.lr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +45,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\evgen\Desktop\study\VII-sem\ОЭ\port" />
+      <recent name="C:\Users\evgen\Desktop\study\VII-sem\ОЭ\port\prog-portfolio" />
     </key>
   </component>
   <component name="RunManager">
@@ -114,7 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766672762547</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit all">
+      <option name="closed" value="true" />
+      <created>1766672905325</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766672905325</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit all">
+      <option name="closed" value="true" />
+      <created>1766673275780</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1766673275780</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
