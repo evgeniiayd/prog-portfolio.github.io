@@ -1,14 +1,16 @@
 <!doctype html>
 <meta charset="utf-8">
-<link rel="stylesheet" href="static/style.css">
+<link rel="stylesheet" href="{{ '/static/style.css'|url }}">
 <title>Портфолио по программированию</title>
 <body>
+  <header>
+    <a href="../">Главное</a>
+    <a href="../kompyuternyj-praktikum">Компьютерный практикум</a>
+  </header>
   <div class="page">
-    
-  <h2>Welcome to prog-portfolio!</h2>
-  <p>This is a basic demo website that shows how to use Lektor for a basic
-website with some pages and a blog.</p>
-
+    <h2>Портфолио программистки Яблонской Евгении</h2>
+  <p>Профессиональное портфолио с моими проектами по программированию.</p>
+    {% block body %}{% endblock %}
   </div>
   <footer>
     &copy; Copyright 2025 by Evgeniia.

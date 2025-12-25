@@ -6,17 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1d1d6cc9-e8c5-482a-b310-f646fa556f21" name="Changes" comment="commit all">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/static/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/first-post/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about/contents.lr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/contents.lr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/first-post/contents.lr" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/contents.lr" beforeDir="false" afterPath="$PROJECT_DIR$/content/contents.lr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +38,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\evgen\Desktop\study\VII-sem\ОЭ\port\assets" />
       <recent name="C:\Users\evgen\Desktop\study\VII-sem\ОЭ\port" />
       <recent name="C:\Users\evgen\Desktop\study\VII-sem\ОЭ\port\prog-portfolio" />
     </key>
@@ -144,8 +139,35 @@
       <option name="project" value="LOCAL" />
       <updated>1766676339389</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit all">
+      <option name="closed" value="true" />
+      <created>1766676446729</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1766676446729</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit all">
+      <option name="closed" value="true" />
+      <created>1766678860727</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1766678860727</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit all" />
